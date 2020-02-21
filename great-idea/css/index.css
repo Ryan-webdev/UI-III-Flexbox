@@ -176,8 +176,12 @@ footer {
 	font-size: 30px;
 	margin-top: 20px;
 }
-.services-header-img, .services-info-img {
+.services-header-img {
 	width: 100%;
+}
+.services-info-img{
+	width: 50%;
+	margin-bottom: 5%;
 }
 
 /* Main Section */
@@ -204,10 +208,12 @@ footer {
 .list {
 	list-style: square inside;
 	margin-top: 20px;
+	line-height: 30px;
 }
 h2 {
 	color: black;
 }
 .margin-correcting {
 	margin-right: 10px;
+	width: 35%;
 }
